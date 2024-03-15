@@ -1,3 +1,3 @@
-Hello readers, 
-This is a repository for our DBMS mini project
+Hello readers !
+This is the repository for our DBMS mini project.
 It depicts the working of a simple Medical Management System
