@@ -4,14 +4,11 @@
    "local_server": "True",
     "local_uri": "mysql://root:@localhost/medical",
     "proud_uri": "mysql://root:@localhost/medical",
-    "fb_url":"",
-    "tw_url":"",
-    "gh_url":"",
+    "gh_url":"https://github.com/Harshrai1023/dbms_mini_project_medical",
     "blog_name": "WELCOME",
     "headname": "MEDICAL SUPPLY MANAGEMENT",
     "user": "test",
     "password": "test",
     "login_image": "aple.jpg"
-
   }
 }
