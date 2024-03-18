@@ -127,7 +127,7 @@
                 <mxCell id="83" style="edgeStyle=none;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;fontSize=14;endArrow=none;endFill=0;" parent="1" source="29" target="32" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="29" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;LOGIN&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+                <mxCell id="29" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;LOGS&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
                     <mxGeometry x="1060" y="745" width="120" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="60" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;endArrow=none;endFill=0;" parent="1" source="30" target="29" edge="1">
