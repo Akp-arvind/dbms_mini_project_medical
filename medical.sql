@@ -3,14 +3,12 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Jan 24, 2023 at 08:31 AM
 -- Server version: 10.4.11-MariaDB
 -- PHP Version: 7.2.29
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
 SET time_zone = "+00:00";
-
 
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
 /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
@@ -20,9 +18,7 @@ SET time_zone = "+00:00";
 --
 -- Database: `medical`
 --
-
 -- --------------------------------------------------------
-
 --
 -- Table structure for table `addmp`
 --
